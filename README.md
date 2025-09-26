@@ -1,6 +1,6 @@
-"""# Airbnb NYC Listings EDA (2024)
+## Airbnb NYC Listings EDA (2024)
 
-Exploratory Data Analysis (EDA) of New York City Airbnb listings to uncover **pricing trends, neighborhood insights, host behavior, and availability patterns**.  
+This project performs Exploratory Data Analysis (EDA) on New York Airbnb data to uncover trends and patterns in rental listings. I use libraries like **Pandas, Numpy, Matplotlib, Seabornfor cleaning, visualization, and analysis**.
 
 <img width="1000" height="500" alt="Airbnb-Logo" src="https://github.com/user-attachments/assets/dc92860e-6e56-4697-9d28-0b46c421f763" />
 
