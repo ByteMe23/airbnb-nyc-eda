@@ -77,7 +77,7 @@ The aim is to clean, analyze, and visualize the dataset to generate insights tha
 ## 🚀 How to Run
 ```bash
 # Clone the repository
-git clone https://github.com/Saswati-18/EDA-New-York-Airbnb-Listings-.git
+git clone https://github.com/ByteMe23/airbnb-nyc-eda.git
 
 # Install dependencies
 pip install pandas numpy matplotlib seaborn
